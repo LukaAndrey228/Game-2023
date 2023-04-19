@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 746c7ed224f355f4cb66cdab3af4117b
+timeCreated: 1680760377
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character-PhotoRoom.png-PhotoRoom_0
+    21300002: character-PhotoRoom.png-PhotoRoom_1
+    21300004: character-PhotoRoom.png-PhotoRoom_2
+    21300006: character-PhotoRoom.png-PhotoRoom_3
+    21300008: character-PhotoRoom.png-PhotoRoom_4
+    21300010: character-PhotoRoom.png-PhotoRoom_5
+    21300012: character-PhotoRoom.png-PhotoRoom_6
+    21300014: character-PhotoRoom.png-PhotoRoom_7
+    21300016: character-PhotoRoom.png-PhotoRoom_8
+    21300018: character-PhotoRoom.png-PhotoRoom_9
+    21300020: character-PhotoRoom.png-PhotoRoom_10
+    21300022: character-PhotoRoom.png-PhotoRoom_11
+    21300024: character-PhotoRoom.png-PhotoRoom_12
+    21300026: character-PhotoRoom.png-PhotoRoom_13
+    21300028: character-PhotoRoom.png-PhotoRoom_14
+    21300030: character-PhotoRoom.png-PhotoRoom_15
+    21300032: character-PhotoRoom.png-PhotoRoom_16
+    21300034: character-PhotoRoom.png-PhotoRoom_17
+    21300036: character-PhotoRoom.png-PhotoRoom_18
+    21300038: character-PhotoRoom.png-PhotoRoom_19
+    21300040: character-PhotoRoom.png-PhotoRoom_20
+    21300042: character-PhotoRoom.png-PhotoRoom_21
+    21300044: character-PhotoRoom.png-PhotoRoom_22
+    21300046: character-PhotoRoom.png-PhotoRoom_23
+    21300048: character-PhotoRoom.png-PhotoRoom_24
+    21300050: character-PhotoRoom.png-PhotoRoom_25
+    21300052: character-PhotoRoom.png-PhotoRoom_26
+    21300054: character-PhotoRoom.png-PhotoRoom_27
+    21300056: character-PhotoRoom.png-PhotoRoom_28
+    21300058: character-PhotoRoom.png-PhotoRoom_29
+    21300060: character-PhotoRoom.png-PhotoRoom_30
+    21300062: character-PhotoRoom.png-PhotoRoom_31
+    21300064: character-PhotoRoom.png-PhotoRoom_32
+    21300066: character-PhotoRoom.png-PhotoRoom_33
+    21300068: character-PhotoRoom.png-PhotoRoom_34
+    21300070: character-PhotoRoom.png-PhotoRoom_35
+    21300072: character-PhotoRoom.png-PhotoRoom_36
+    21300074: character-PhotoRoom.png-PhotoRoom_37
+    21300076: character-PhotoRoom.png-PhotoRoom_38
+    21300078: character-PhotoRoom.png-PhotoRoom_39
+    21300080: character-PhotoRoom.png-PhotoRoom_40
+    21300082: character-PhotoRoom.png-PhotoRoom_41
+    21300084: character-PhotoRoom.png-PhotoRoom_42
+    21300086: character-PhotoRoom.png-PhotoRoom_43
+    21300088: character-PhotoRoom.png-PhotoRoom_44
+    21300090: character-PhotoRoom.png-PhotoRoom_45
+    21300092: character-PhotoRoom.png-PhotoRoom_46
+    21300094: character-PhotoRoom.png-PhotoRoom_47
+    21300096: character-PhotoRoom.png-PhotoRoom_48
+    21300098: character-PhotoRoom.png-PhotoRoom_49
+    21300100: character-PhotoRoom.png-PhotoRoom_50
+    21300102: character-PhotoRoom.png-PhotoRoom_51
+    21300104: character-PhotoRoom.png-PhotoRoom_52
+    21300106: character-PhotoRoom.png-PhotoRoom_53
+    21300108: character-PhotoRoom.png-PhotoRoom_54
+    21300110: character-PhotoRoom.png-PhotoRoom_55
+    21300112: character-PhotoRoom.png-PhotoRoom_56
+    21300114: character-PhotoRoom.png-PhotoRoom_57
+    21300116: character-PhotoRoom.png-PhotoRoom_58
+    21300118: character-PhotoRoom.png-PhotoRoom_59
+    21300120: character-PhotoRoom.png-PhotoRoom_60
+    21300122: character-PhotoRoom.png-PhotoRoom_61
+    21300124: character-PhotoRoom.png-PhotoRoom_62
+    21300126: character-PhotoRoom.png-PhotoRoom_63
+    21300128: character-PhotoRoom.png-PhotoRoom_64
+    21300130: character-PhotoRoom.png-PhotoRoom_65
+    21300132: character-PhotoRoom.png-PhotoRoom_66
+    21300134: character-PhotoRoom.png-PhotoRoom_67
+    21300136: character-PhotoRoom.png-PhotoRoom_68
+    21300138: character-PhotoRoom.png-PhotoRoom_69
+    21300140: character-PhotoRoom.png-PhotoRoom_70
+    21300142: character-PhotoRoom.png-PhotoRoom_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 838
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 838
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 838
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 838
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 838
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 838
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 838
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 755
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 755
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 785
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 755
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 755
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 755
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 755
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 755
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 670
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 670
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 675
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 690
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 690
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 691
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 685
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 600
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 595
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 595
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 587
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 587
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 586
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 586
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 503
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 501
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 500
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 500
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 500
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 505
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 509
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 429
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 433
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 433
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 335
+        width: 76
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 419
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 419
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 419
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 335
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 335
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 335
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 335
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 335
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 252
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 252
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 252
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 252
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 252
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 252
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 168
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 168
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 168
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 168
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 168
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 83
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 83
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 83
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 83
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 83
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 83
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_70
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-PhotoRoom.png-PhotoRoom_71
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

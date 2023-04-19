@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: abdf5fdacd7c1bf4ba80e6e900de4d23
+timeCreated: 1680762395
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy2-PhotoRoom.png-PhotoRoom_0
+    21300002: Enemy2-PhotoRoom.png-PhotoRoom_1
+    21300004: Enemy2-PhotoRoom.png-PhotoRoom_2
+    21300006: Enemy2-PhotoRoom.png-PhotoRoom_3
+    21300008: Enemy2-PhotoRoom.png-PhotoRoom_4
+    21300010: Enemy2-PhotoRoom.png-PhotoRoom_5
+    21300012: Enemy2-PhotoRoom.png-PhotoRoom_6
+    21300014: Enemy2-PhotoRoom.png-PhotoRoom_7
+    21300016: Enemy2-PhotoRoom.png-PhotoRoom_8
+    21300018: Enemy2-PhotoRoom.png-PhotoRoom_9
+    21300020: Enemy2-PhotoRoom.png-PhotoRoom_10
+    21300022: Enemy2-PhotoRoom.png-PhotoRoom_11
+    21300024: Enemy2-PhotoRoom.png-PhotoRoom_12
+    21300026: Enemy2-PhotoRoom.png-PhotoRoom_13
+    21300028: Enemy2-PhotoRoom.png-PhotoRoom_14
+    21300030: Enemy2-PhotoRoom.png-PhotoRoom_15
+    21300032: Enemy2-PhotoRoom.png-PhotoRoom_16
+    21300034: Enemy2-PhotoRoom.png-PhotoRoom_17
+    21300036: Enemy2-PhotoRoom.png-PhotoRoom_18
+    21300038: Enemy2-PhotoRoom.png-PhotoRoom_19
+    21300040: Enemy2-PhotoRoom.png-PhotoRoom_20
+    21300042: Enemy2-PhotoRoom.png-PhotoRoom_21
+    21300044: Enemy2-PhotoRoom.png-PhotoRoom_22
+    21300046: Enemy2-PhotoRoom.png-PhotoRoom_23
+    21300048: Enemy2-PhotoRoom.png-PhotoRoom_24
+    21300050: Enemy2-PhotoRoom.png-PhotoRoom_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 375
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 375
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 375
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 375
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 375
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 285
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 284
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 284
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 284
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 284
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 189
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 189
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 189
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 189
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 189
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 102
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 102
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 14
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy2-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 14
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
